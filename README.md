@@ -9,4 +9,5 @@ https://www.youtube.com/watch?v=5xLbtyN5XBU
 
 The files are: 
 1.) "main_file_adaptive.m" - the main file for simulating the dynamics. You can start from this file.
+
 2.) "dynamics_adaptive.m" - the MATLAB function describing the closed-loop dynamics. 
