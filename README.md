@@ -1,5 +1,7 @@
 # Model-Reference-Adaptive-Control---MIT-Rule
 
+**IMPORTANT NOTE: First, thoroughly read the license in the file called LICENSE.md!**
+
 In this repository, I posted MATLAB codes for simulating the behavior of a Model Reference Adaptive Control (MRAC) algorithm. 
 A detailed post that explains the basics of the MRAC algorithm is given here:
 https://aleksandarhaber.com/simulation-of-model-reference-adaptive-controller-in-matlab-part-i-mit-rule-and-a-first-order-system/
